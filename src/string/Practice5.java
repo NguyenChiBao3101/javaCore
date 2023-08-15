@@ -1,4 +1,4 @@
-package String;
+package string;
 import java.util.Scanner;
 
 // dem so luong nguyen am, phu am cua chuoi

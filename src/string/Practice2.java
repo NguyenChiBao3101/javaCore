@@ -1,4 +1,4 @@
-package String;
+package string;
 
 import java.util.Map;
 import java.util.Scanner;

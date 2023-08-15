@@ -1,6 +1,5 @@
-package String;
+package string;
 
-import java.util.Scanner;
 // methods of String, +=
 public class StringDemo {
     public static void main(String[] args) {

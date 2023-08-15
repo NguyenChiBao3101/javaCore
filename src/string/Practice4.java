@@ -1,4 +1,4 @@
-package String;
+package string;
 
 import java.util.Scanner;
 // kiem tra chuoi xem co chu so hay ko
