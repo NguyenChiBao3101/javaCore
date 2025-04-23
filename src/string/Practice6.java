@@ -9,7 +9,7 @@ public class Practice6 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Nhap chuoi so : ");
         a = sc.nextLine();
-        System.out.println("chuoi ban dau " + a);
+        System.out.println("chuoi ban dau :" + a);
         int number = ConVertNumber(a);
         System.out.println("sau khi chuyen doi chuoi sang chu : " + (number - 1) );
 
